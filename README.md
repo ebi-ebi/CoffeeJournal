@@ -1,1 +1,1 @@
-Coffee Review App
+Coffee Journal App
